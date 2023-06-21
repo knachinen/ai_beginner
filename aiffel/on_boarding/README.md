@@ -2,7 +2,7 @@
 
 Hello, world!
 
-this is a practice to use git. 
-it is connected with a token. 
+This is a practice to use git.  
+It is connected with a token.  
 
 
