@@ -1,5 +1,8 @@
 # first-repository
 
-this is a practice to use git.
-connecting with a token.
+Hello, world!
+
+this is a practice to use git. 
+it is connected with a token. 
+
 
